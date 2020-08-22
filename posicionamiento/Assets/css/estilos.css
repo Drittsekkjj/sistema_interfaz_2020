@@ -1,0 +1,148 @@
+body {
+    background-color: rgb(156, 148, 151);
+}
+
+.banderafondo {
+    display: inline-block;
+    position: relative;
+    background-color: white;
+    height: 200px;
+    width: 300px;
+    margin: 20px;
+}
+
+.azul{
+    background-color: blue;
+    height: 200px;
+    width: 100px;
+    position: absolute
+}
+.rojo{
+    background-color: red;
+    height: 200px;
+    width: 100px;
+    position: absolute;
+    left: 200px;
+}
+
+.amarillo{
+    background-color: yellow;
+    height: 100px;
+    width: 300px;
+    position: absolute;
+}
+.azul2{
+    background-color:blue;
+    height: 100px;
+    width: 300px;
+    top: 100px;
+    position: absolute;
+}
+.rojo2{
+    background-color:red;
+    height: 50px;
+    width: 300px;
+    top: 150px;
+    position: absolute;
+}
+.amarillobase{
+    background-color: yellow;
+    height: 200px;
+    width: 300px;
+    position: absolute;
+}
+
+.rojo3{
+    background-color:red;
+    height: 50px;
+    width: 300px;
+    position: absolute;
+
+}
+.imagenespaña{
+    width: 25%;
+    position: absolute;
+    top: 60px;
+    left: 50px;
+}
+.azulbase{
+    background-color: blue;
+    height: 200px;
+    width: 300px;
+    position: absolute;
+}
+
+.blanco{
+    background-color: white;
+    position: absolute;
+    height: 132px;
+    width: 300px;
+    top: 33px;
+}
+.rojo4{
+    background-color: red;
+    position: absolute;
+    height: 66.7px;
+    width: 300px;
+    top: 66px;
+}
+
+.blanco2{
+    background-color: white;
+    position: absolute;
+    width: 40px;
+    height: 200px;
+    left: 80px;
+}
+
+.blanco3{
+    background-color: white;
+    position: absolute;
+    width: 300px;
+    height: 40px;
+    top: 80px;
+}
+
+.red1{
+    background-color:red;
+    position: absolute;
+    width: 20px;
+    height: 200px;
+    left: 90px;
+}
+
+.red2{
+    background-color: red;
+    position: absolute;
+    width: 300px;
+    height: 20px;
+    top: 90px;
+}
+
+.japon{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+
+.azul3{
+    background-color:blue;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+}
+.rojo5{
+background-color:red;
+height: 100px;
+width: 300px;
+top: 100px;
+position: absolute;
+}
+.estrella{
+    position: absolute;
+    width: 100%; 
+}
